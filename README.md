@@ -1,10 +1,6 @@
-# C3D
+# caffe_conv3d_wta
 
-C3d is a modified version of BVLC caffe to support 3D convolution and pooling.
-The main supporting features include:<br/>
-- Training or fine-tuning 3D ConvNets.<br/>
-- Extracting video features with pre-trained C3D models.<br/>
+This is the modified version of C3D (a caffe version supports 3D convolution and pooling) to do winner-take-all step on 3D tensors.
 
-For more information about c3d, please refer to the [C3D project website](http://vlg.cs.dartmouth.edu/c3d).<br/>
+For more information about C3D, please refer to the [Facebook/C3D](https://github.com/facebook/C3D.git).<br/>
 
-For general questions about Caffe, please refer to the [BVLC project website](http://caffe.berkeleyvision.org) for all documentation.
